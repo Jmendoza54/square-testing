@@ -17,7 +17,7 @@ can run this command to clone, go to path where you want clone the project
 ## Open terminal and go the path of this project, replace the pathFolder with the path of the folder on your compuetr
 
 ```
-cd pathFolder
+cd square-testing
 ```
 
 ## Install
